@@ -19,6 +19,7 @@
           Object.defineProperty(n, k, d.get ? d : {
             enumerable: true,
             get: () => e[k]
+            object
           });
         }
       }

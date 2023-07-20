@@ -7061,6 +7061,6 @@
   };
 
   return index_umd;
-
+basePlacements
 }));
 //# sourceMappingURL=bootstrap.bundle.js.map
