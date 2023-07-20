@@ -17,7 +17,8 @@ class Post{
 		$stmt->execute([
 
 			$title,
-			$content
+			$content 
+			
 
 		]);
 
