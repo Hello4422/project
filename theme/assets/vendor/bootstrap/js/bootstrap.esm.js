@@ -18,7 +18,7 @@ const TRANSITION_END = 'transitionend'; // Shout-out Angus Croll (https://goo.gl
 const toType = object => {
   if (object === null || object === undefined) {
     return `${object}`;
-    object
+    
   }
 
   return Object.prototype.toString.call(object).match(/\s([a-z]+)/i)[1].toLowerCase();
