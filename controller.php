@@ -18,7 +18,7 @@ class Post{
 
 			$title,
 			$content 
-			
+			$add num 
 
 		]);
 
