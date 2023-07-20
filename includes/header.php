@@ -28,6 +28,7 @@
   <!-- Template Main CSS Files -->
   <link href="assets/css/variables.css" rel="stylesheet">
   <link href="assets/css/main.css" rel="stylesheet">
+  <link rel=stylesheet>
 
   <!-- =======================================================
   * Template Name: ZenBlog - v1.1.0
