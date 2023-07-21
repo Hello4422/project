@@ -7,7 +7,7 @@
     background-position: var(--plyr-progress-loading-size, 25px) 0;
   }
 }
-uhasu
+
 @keyframes plyr-progress {
   to {
     background-position: 25px 0;

@@ -15,7 +15,6 @@
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
   outline: none;
-  background-attachment: fixed;
 }
 
 .glightbox-container.inactive {

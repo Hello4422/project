@@ -3651,5 +3651,5 @@
   }
 
   return glightbox;
-js
+
 })));
