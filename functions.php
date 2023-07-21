@@ -15,5 +15,5 @@ function check_user_by_email($email){
 	return mysqli_query($dbc, $q);
 	// return mysqli_num_rows($fetch);
 }
- 
+ <div></div>
 ?>      

@@ -85,5 +85,5 @@ public function deletePost($id){
 
 	$stmt->execute([$id]);
 }
-
+<div></div>
 }

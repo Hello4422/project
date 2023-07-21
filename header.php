@@ -24,6 +24,6 @@
 
 			<a class="btn btn-outline-primary" href="index.php">Home</a>
 			<a class="btn btn-outline-primary" href="create_post.php">Add Post</a>
-
+<div></div>
 
 		</div>

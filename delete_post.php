@@ -9,4 +9,4 @@ $id  = $_GET['id'];
 	$delete_post = $post->deletePost($id);
 
 	header('location:index.php');
-}
+} <div></div>

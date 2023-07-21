@@ -44,5 +44,5 @@ $id = $_GET['id'];
 
 </div>
 
-
+<div></div>
 <?php require 'footer.php'; ?>

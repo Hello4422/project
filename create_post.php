@@ -41,6 +41,6 @@ if (isset($_GET['empty'])) {
 
 
 </div>
-
+<div></div>
 
 <?php require 'footer.php'; ?>

@@ -5,3 +5,4 @@
 
   </main>
 <?php include_once(ROOT_PATH.'/includes/footer.php') ?>  
+<div></div>
