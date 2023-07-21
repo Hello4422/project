@@ -21,6 +21,6 @@ foreach ($fetch_post as $value):
 	<p class="mt-3"><?php echo substr($value->content, 0,300); ?>&nbsp;<a style="text-decoration: none;" href="single_post.php?id=<?php echo $value->id; ?>">read more...</a></p>
 
 <?php endforeach; ?>
-
+<div></div>
 </div>
 <?php include_once('includes/footer.php');?>

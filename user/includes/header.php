@@ -20,7 +20,7 @@
    <link href="<?php echo BASE_URL?>assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
    <link href="<?php echo BASE_URL?>assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
-
+<div></div>
 </head>
 <body>
 	
